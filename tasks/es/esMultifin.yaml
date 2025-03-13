@@ -4,7 +4,7 @@ doc_to_target: gold
 doc_to_text: '{{query}}'
 output_type: multiple_choice
 doc_to_choice: choices
-fewshot_split: train
+fewshot_split: test
 should_decontaminate: true
 doc_to_decontamination_query: "{{query}}"
 metric_list:
