@@ -19,4 +19,4 @@ metadata:
 task: ESMultifin
 tag: es
 test_split: test
-training_split: train
+training_split: test
