@@ -1,5 +1,5 @@
 dataset_name: default
-dataset_path: TheFinAI/flare-es-multifin
+dataset_path: TheFinAI/flare-es-financees
 doc_to_target: gold
 doc_to_text: '{{query}}'
 output_type: multiple_choice
