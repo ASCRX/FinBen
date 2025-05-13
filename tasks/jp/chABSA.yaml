@@ -1,5 +1,5 @@
 dataset_name: default
-dataset_path: TheFinAI/jp_chBASA
+dataset_path: TheFinAI/jp_chABSA
 output_type: multiple_choice
 doc_to_choice: ["positive", "negative", "neutral"]
 doc_to_target: polarity
