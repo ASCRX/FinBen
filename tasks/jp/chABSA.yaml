@@ -19,4 +19,4 @@ metadata:
   version: '1.0'
 task: JPchABSA
 tag: jp
-train_split: train
+training_split: train
