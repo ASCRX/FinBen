@@ -1,5 +1,5 @@
 dataset_name: default
-dataset_path: TheFinAI/jp_chABSA
+dataset_path: TheFinAI/jp-chABSA
 output_type: multiple_choice
 doc_to_choice: ["positive", "negative", "neutral"]
 doc_to_target: polarity
@@ -19,4 +19,4 @@ metadata:
   version: '1.0'
 task: JPchABSA
 tag: jp
-test_split: test
+train_split: train
